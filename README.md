@@ -1,4 +1,4 @@
-### Hi there. I'm codewhy 👋
+### Hi there. I'm coderhzy 👋
 
 <!--
 **codehzy/codehzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
